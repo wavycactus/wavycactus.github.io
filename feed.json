@@ -5,6 +5,7 @@
     "home_page_url": "https://wavycactus.github.io",
     "feed_url": "https://wavycactus.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://wavycactus.github.io/media/website/Gemini_Generated_Image_200fn200fn200fn2-2.png",
     "author": {
         "name": "Wavy Cactus"
     },
@@ -21,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2025-11-07T03:49:26+01:00",
-            "date_modified": "2025-11-07T03:49:50+01:00"
+            "date_modified": "2025-11-07T03:54:05+01:00"
         }
     ]
 }
