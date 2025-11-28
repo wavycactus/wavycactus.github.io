@@ -3,7 +3,7 @@
     <title>WavyCactus</title>
     <link href="https://wavycactus.github.io/feed.xml" rel="self" />
     <link href="https://wavycactus.github.io" />
-    <updated>2025-11-28T13:10:16+01:00</updated>
+    <updated>2025-11-28T13:11:01+01:00</updated>
     <author>
         <name>Wavy Cactus</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://wavycactus.github.io/recap-ottobre-2025/"/>
         <id>https://wavycactus.github.io/recap-ottobre-2025/</id>
         <media:content url="https://wavycactus.github.io/media/posts/13/efd0bcff-4d3e-4d32-ae10-558ac0b54fb9-box-giapponismo.png" medium="image" />
+            <category term="Monthly Recap"/>
 
         <updated>2025-11-28T13:10:16+01:00</updated>
             <summary type="html">
@@ -79,7 +80,7 @@
         </content>
     </entry>
     <entry>
-        <title>Recap settembre 2025</title>
+        <title>Recap Settembre 2025</title>
         <author>
             <name>Wavy Cactus</name>
         </author>
