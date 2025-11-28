@@ -1,0 +1,37 @@
+<!DOCTYPE html><html lang="it"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Search - WavyCactus</title><meta name="robots" content="noindex, follow"><meta name="generator" content="Publii Open-Source CMS for Static Site"><script type="gdpr-blocker/" async src="https://www.googletagmanager.com/gtag/js?id=G-K53186XDC4"></script><script type="gdpr-blocker/">window.dataLayer = window.dataLayer || [];
+				  function gtag(){dataLayer.push(arguments);}
+				  gtag('js', new Date());
+				  gtag('config', 'G-K53186XDC4' );</script><link rel="alternate" type="application/atom+xml" href="https://wavycactus.github.io/feed.xml" title="WavyCactus - RSS"><link rel="alternate" type="application/json" href="https://wavycactus.github.io/feed.json" title="WavyCactus - JSON"><meta property="og:title" content="WavyCactus"><meta property="og:image" content="https://wavycactus.github.io/media/website/Gemini_Generated_Image_lvb0awlvb0awlvb0-removebg-preview.png"><meta property="og:image:width" content="500"><meta property="og:image:height" content="500"><meta property="og:site_name" content="WavyCactus"><meta property="og:description" content=""><meta property="og:url" content="https://wavycactus.github.io/"><meta property="og:type" content="website"><link rel="shortcut icon" href="https://wavycactus.github.io/media/website/Gemini_Generated_Image_lvb0awlvb0awlvb0-removebg-preview-2.png" type="image/x-icon"><link rel="stylesheet" href="https://wavycactus.github.io/assets/css/style.css?v=039dc4c1b600dada87070d2b4eb5ed49"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"WavyCactus","logo":"https://wavycactus.github.io/media/website/Gemini_Generated_Image_lvb0awlvb0awlvb0-removebg-preview.png","url":"https://wavycactus.github.io/"}</script><noscript><style>img[loading] {
+                    opacity: 1;
+                }</style></noscript></head><body class="search-template"><div class="container"><header class="header" id="js-header"><a href="https://wavycactus.github.io/" class="logo"><img src="https://wavycactus.github.io/media/website/Gemini_Generated_Image_lvb0awlvb0awlvb0-removebg-preview.png" alt="WavyCactus" width="500" height="500"></a><nav class="navbar js-navbar"><button class="navbar__toggle js-toggle" aria-label="Menu"><span class="navbar__toggle-box"><span class="navbar__toggle-inner">Menu</span></span></button><ul class="navbar__menu"><li><a href="https://wavycactus.github.io/aggiornamenti/" target="_self">Aggiornamenti</a></li><li class="has-submenu"><a href="https://wavycactus.github.io/progressi-annuali/" target="_self" aria-haspopup="true">Yearly</a><ul class="navbar__submenu level-2" aria-hidden="true"><li><a href="https://wavycactus.github.io/progressi-annuali/2025/" target="_self">2025</a></li></ul></li></ul></nav><div class="search"><div class="search__overlay js-search-overlay"><form action="https://wavycactus.github.io/search.html" class="search__form"><input class="search__input" type="search" name="q" placeholder="cerca..." aria-label="cerca..." autofocus required> <button type="submit" class="search__button"><span>Cerca</span></button></form></div><button class="search__btn js-search-btn" aria-label="Search"><svg role="presentation" focusable="false" height="15" width="15"><use xlink:href="https://wavycactus.github.io/assets/svg/svg-map.svg#search"/></svg></button></div></header><main class="page page--search"><div class="hero wrapper"><h1>Search</h1></div><div class="wrapper"><form action="https://wavycactus.github.io/search.html" class="search-page-form"><input type="search" name="q" placeholder="cerca..." class="search-page-input" required> <button type="submit" class="search-page-button"><span>Cerca</span></button></form><div id="search-results"></div><script>(async function () {
+				console.log("https://wavycactus.github.io/feed.json");
+				console.log("q");
+			  
+				let url = "https://wavycactus.github.io/feed.json";
+				let response = await fetch(url);
+				let jsonData = await response.json();
+			  
+				const params = new URLSearchParams(window.location.search)
+				let searchTerm = params.get("q");
+				let results = [];
+			  
+				jsonData.items.forEach((item) => {
+				  let title = item.title.toLowerCase();
+				  let summary = item.summary.toLowerCase();
+				  let url = item.url;
+			  
+				  if (title.includes(searchTerm.toLowerCase()) || summary.includes(searchTerm.toLowerCase())) {
+					results.push(item);
+				  }
+				});
+			  
+				let elm = document.querySelector("#search-results");
+				if (results.length > 0) {
+				  results.forEach((result)=>{
+					console.log(result);
+					elm.innerHTML += '<h5><a href="'+ result.url +'">' + result.title + '</a></h5><p>' + result.summary + '</p>'
+				  });
+				} else {
+				  elm.innerHTML = '<p>No Results Found</p>';
+				}
+			  })();</script></div></main><footer class="footer"><div class="footer__copyright">Powered by Publii</div></footer></div><script defer="defer" src="https://wavycactus.github.io/assets/js/scripts.min.js?v=4268bfae06e330d473c424d50f09abda"></script><script>window.publiiThemeMenuConfig={mobileMenuMode:'sidebar',animationSpeed:300,submenuWidth: 'auto',doubleClickTime:500,mobileMenuExpandableSubmenus:true,relatedContainerForOverlayMenuSelector:'.navbar'};</script><script>/*<![CDATA[*/var images=document.querySelectorAll("img[loading]");for(var i=0;i<images.length;i++){if(images[i].complete){images[i].classList.add("is-loaded")}else{images[i].addEventListener("load",function(){this.classList.add("is-loaded")},false)}};/*]]>*/</script></body></html>
