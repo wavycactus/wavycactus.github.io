@@ -3,12 +3,43 @@
     <title>WavyCactus</title>
     <link href="https://wavycactus.github.io/feed.xml" rel="self" />
     <link href="https://wavycactus.github.io" />
-    <updated>2025-12-05T00:25:54+01:00</updated>
+    <updated>2025-12-05T00:32:24+01:00</updated>
     <author>
         <name>Wavy Cactus</name>
     </author>
     <id>https://wavycactus.github.io</id>
 
+    <entry>
+        <title>Recap Novembre 2025</title>
+        <author>
+            <name>Wavy Cactus</name>
+        </author>
+        <link href="https://wavycactus.github.io/recap-novembre-2025/"/>
+        <id>https://wavycactus.github.io/recap-novembre-2025/</id>
+        <media:content url="https://wavycactus.github.io/media/posts/15/pexels-jemsanchez-1108814-1.jpg" medium="image" />
+            <category term="Monthly Recap"/>
+
+        <updated>2025-12-05T00:32:15+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://wavycactus.github.io/media/posts/15/pexels-jemsanchez-1108814-1.jpg" alt="wind" />
+                    Monthly Recap Libri Finita la lettura di Ultralearning.Nonostante il fremito che mi&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wavycactus.github.io/media/posts/15/pexels-jemsanchez-1108814-1.jpg" class="type:primaryImage" alt="wind" /></p>
+                <h3>Monthly Recap</h3>
+<p><strong>Libri</strong></p>
+<p>Finita la lettura di Ultralearning.Nonostante il fremito che mi pervade al pensiero di cominciare il modulo 1 sulla Filosofia - credo che rimarrò centrato sul piano e continuerò questo mio progetto con la lettura di "<em>Make it Stick</em>".</p>
+<p><strong>Film/Serie/Documentari</strong></p>
+<p>Quasi terminata la visione di Avatar - the Last Airbender - simpatica, attendo il finale.</p>
+<p><strong>Interessi &amp; Attività</strong></p>
+<p>Nuovo lavoro, rete e network, concentrazione.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Recap Ottobre 2025</title>
         <author>

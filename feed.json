@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://wavycactus.github.io/recap-novembre-2025/",
+            "url": "https://wavycactus.github.io/recap-novembre-2025/",
+            "title": "Recap Novembre 2025",
+            "summary": "Monthly Recap Libri Finita la lettura di Ultralearning.Nonostante il fremito che mi&hellip;",
+            "content_html": "<h3>Monthly Recap</h3>\n<p><strong>Libri</strong></p>\n<p>Finita la lettura di Ultralearning.Nonostante il fremito che mi pervade al pensiero di cominciare il modulo 1 sulla Filosofia - credo che rimarrò centrato sul piano e continuerò questo mio progetto con la lettura di \"<em>Make it Stick</em>\".</p>\n<p><strong>Film/Serie/Documentari</strong></p>\n<p>Quasi terminata la visione di Avatar - the Last Airbender - simpatica, attendo il finale.</p>\n<p><strong>Interessi &amp; Attività</strong></p>\n<p>Nuovo lavoro, rete e network, concentrazione.</p>\n<p> </p>",
+            "image": "https://wavycactus.github.io/media/posts/15/pexels-jemsanchez-1108814-1.jpg",
+            "author": {
+                "name": "Wavy Cactus"
+            },
+            "tags": [
+                   "Monthly Recap"
+            ],
+            "date_published": "2025-12-05T00:32:15+01:00",
+            "date_modified": "2025-12-05T00:32:24+01:00"
+        },
+        {
             "id": "https://wavycactus.github.io/recap-ottobre-2025/",
             "url": "https://wavycactus.github.io/recap-ottobre-2025/",
             "title": "Recap Ottobre 2025",
