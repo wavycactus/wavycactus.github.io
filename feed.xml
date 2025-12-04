@@ -3,12 +3,25 @@
     <title>WavyCactus</title>
     <link href="https://wavycactus.github.io/feed.xml" rel="self" />
     <link href="https://wavycactus.github.io" />
-    <updated>2025-12-05T00:32:24+01:00</updated>
+    <updated>2025-12-05T00:33:55+01:00</updated>
     <author>
         <name>Wavy Cactus</name>
     </author>
     <id>https://wavycactus.github.io</id>
 
+    <entry>
+        <title>make it stick</title>
+        <author>
+            <name>Wavy Cactus</name>
+        </author>
+        <link href="https://wavycactus.github.io/make-it-stick/"/>
+        <id>https://wavycactus.github.io/make-it-stick/</id>
+        <media:content url="https://wavycactus.github.io/media/posts/16/MakeitStick.webp" medium="image" />
+
+        <updated>2025-12-05T00:33:47+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Recap Novembre 2025</title>
         <author>

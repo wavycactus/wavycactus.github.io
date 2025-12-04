@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://wavycactus.github.io/make-it-stick/",
+            "url": "https://wavycactus.github.io/make-it-stick/",
+            "title": "make it stick",
+            "image": "https://wavycactus.github.io/media/posts/16/MakeitStick.webp",
+            "author": {
+                "name": "Wavy Cactus"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-05T00:33:47+01:00",
+            "date_modified": "2025-12-05T00:33:55+01:00"
+        },
+        {
             "id": "https://wavycactus.github.io/recap-novembre-2025/",
             "url": "https://wavycactus.github.io/recap-novembre-2025/",
             "title": "Recap Novembre 2025",
