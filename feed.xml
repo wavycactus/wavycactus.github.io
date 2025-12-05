@@ -3,7 +3,7 @@
     <title>WavyCactus</title>
     <link href="https://wavycactus.github.io/feed.xml" rel="self" />
     <link href="https://wavycactus.github.io" />
-    <updated>2025-12-05T00:33:55+01:00</updated>
+    <updated>2025-12-05T12:26:11+01:00</updated>
     <author>
         <name>Wavy Cactus</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://wavycactus.github.io/make-it-stick/"/>
         <id>https://wavycactus.github.io/make-it-stick/</id>
         <media:content url="https://wavycactus.github.io/media/posts/16/MakeitStick.webp" medium="image" />
+            <category term="Readings"/>
 
         <updated>2025-12-05T00:33:47+01:00</updated>
             <summary></summary>
@@ -170,6 +171,7 @@
         <link href="https://wavycactus.github.io/ultralearning/"/>
         <id>https://wavycactus.github.io/ultralearning/</id>
         <media:content url="https://wavycactus.github.io/media/posts/8/1715788674418.jpeg" medium="image" />
+            <category term="Readings"/>
 
         <updated>2025-09-22T21:32:00+02:00</updated>
             <summary type="html">
@@ -675,6 +677,7 @@
         <link href="https://wavycactus.github.io/letture-per-modulo-0/"/>
         <id>https://wavycactus.github.io/letture-per-modulo-0/</id>
         <media:content url="https://wavycactus.github.io/media/posts/7/1_CNvj8vb5ozXgUqCK3WAwNg.jpg" medium="image" />
+            <category term="Readings"/>
 
         <updated>2025-09-16T21:21:00+02:00</updated>
             <summary type="html">
